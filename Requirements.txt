@@ -1,0 +1,48 @@
+Last login: Fri Nov 29 10:36:07 on ttys020
+/dev/fd/12:18: command not found: compdef
+(base) nidhi@Nidhis-MacBook-Pro ~ % nano requiremnets.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                 File: requiremnets.txt                 Modified  
+
+## Dependencies
+
+Ensure you have the following libraries installed:
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- TensorFlow
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
